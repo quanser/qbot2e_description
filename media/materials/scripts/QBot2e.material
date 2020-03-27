@@ -1,0 +1,14 @@
+material QBot2e_BaseMaterial
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture T_QBot2e_A.png
+                scale 1 1
+            }
+        }   
+    }
+}
